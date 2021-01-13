@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\bin\Debug\Exercicio02_Cinema.exe.config
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\bin\Debug\Exercicio02_Cinema.exe
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\bin\Debug\Exercicio02_Cinema.pdb
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\obj\Debug\Exercicio02_Cinema.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\obj\Debug\Exercicio02_Cinema.Form1.resources
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\obj\Debug\Exercicio02_Cinema.Properties.Resources.resources
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\obj\Debug\Exercicio02_Cinema.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\obj\Debug\Exercicio02_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\obj\Debug\Exercicio02_Cinema.exe
+C:\Users\aluno\Desktop\DS\Exercicio02_Cinema\Exercicio02_Cinema\obj\Debug\Exercicio02_Cinema.pdb

@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Form1.resources
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\aluno\Desktop\DS\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
